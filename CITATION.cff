@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the original paper."
+authors:
+  - family-names: "Dejl"
+    given-names: "Adam"
+    orcid: "https://orcid.org/0009-0006-0274-4160"
+  - family-names: "Zhang"
+    given-names: "Dekai"
+    orcid: "https://orcid.org/0000-0001-5770-0903"
+  - family-names: "Ayoobi"
+    given-names: "Hamed"
+    orcid: "https://orcid.org/0000-0002-5418-6352"
+  - family-names: "Williams"
+    given-names: "Matthew"
+    orcid: "https://orcid.org/0000-0001-7096-0718"
+  - family-names: "Toni"
+    given-names: "Francesca"
+    orcid: "https://orcid.org/0000-0001-8194-1459"
+preferred-citation:
+  authors:
+    - family-names: "Dejl"
+      given-names: "Adam"
+      orcid: "https://orcid.org/0009-0006-0274-4160"
+    - family-names: "Zhang"
+      given-names: "Dekai"
+      orcid: "https://orcid.org/0000-0001-5770-0903"
+    - family-names: "Ayoobi"
+      given-names: "Hamed"
+      orcid: "https://orcid.org/0000-0002-5418-6352"
+    - family-names: "Williams"
+      given-names: "Matthew"
+      orcid: "https://orcid.org/0000-0001-7096-0718"
+    - family-names: "Toni"
+      given-names: "Francesca"
+      orcid: "https://orcid.org/0000-0001-8194-1459"
+  title: "Hidden Conflicts in Neural Networks and their Implications for Explainability"
+  type: conference-paper
+  doi: "10.1145/3715275.37321"
+  url: "https://doi.org/10.1145/3715275.3732100"
+  collection-title: "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency"
+  collection-type: proceedings
+  publisher:
+    name: "Association for Computing Machinery"
+  year: 2025
+  isbn: 979-8-4007-1482-5
+  pages: "1498–1542"
+title: "Hidden Conflicts"
+date-released: 2025-05-06
+url: "https://github.com/adamdejl/hidden-conflicts"
